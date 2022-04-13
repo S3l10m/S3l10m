@@ -7,7 +7,8 @@ I'm a software developer interested in:
 
 I love:
 - 🍊 Juices;
-- 🍕 Eatings, yea i love foods.
+- 🍕 Eatings, yea i love foods;
+- 🎮 Yea not only programming but i also love gaming.
 
 <a href="https://github.com/farcuen/farcuen">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farcuen&show_icons=true&theme=radical"/>
