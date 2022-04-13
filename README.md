@@ -11,9 +11,8 @@ I love:
 - 🎮 Yea not only programming but i also love gaming.
 
 <a href="https://github.com/farcuen/farcuen">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=farcuen&show_icons=true&theme=radical"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=farcuen&show_icons=true&theme=radical"/>
 </a>
-<p></p>
 <a href="https://github.com/farcuen/farcuen">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farcuen&layout=compact&theme=radical"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farcuen&layout=compact&theme=radical"/>
 </a>
