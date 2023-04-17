@@ -1,10 +1,9 @@
 Hi I'm Salvatore Borlenghi and I'm a Software Engineer.
 
 I'm interested in:
+- 🧳Full-Stack develpoing.
 - :shipit: Cybersecurity;
 - 🎮 Gaming developing;
-- 🐊 Software developing;
-- 🧳Full-Stack develpoing.
 
 I love:
 - 🍊 Juices;
