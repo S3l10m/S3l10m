@@ -16,8 +16,8 @@ In my free time i love:
 - 🎮Play videogames.
 
 <a href="https://github.com/salvatoreborlenghi">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=salvatoreborlenghi&show_icons=true&theme=radical"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=sborlenghi&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/salvatoreborlenghi">
- <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvatoreborlenghi&layout=compact&theme=radical&repo=github-readme-stats"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sborlenghi&layout=compact&theme=radical&repo=github-readme-stats"/>
 </a>
