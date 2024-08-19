@@ -1,10 +1,9 @@
 Hi I'm Salvatore Borlenghi and I'm a Software Developer.
 
-I had experience in all phases of the software life cycle, from requirements analysis to maintenance.
-In addition, I have knowledge in Administration, Finance and Marketing acquired with my High School Degree; that type of knowledge help me a lot also on building ecommerce application or enterprise software.
+I also have a background on administration, finance and marketing acquired with my high school diploma; this kind of knowledge also helps me a lot in the implementation of ecommerce applications or enterprise software.
 You will find my CV and more info about me on linkedin profile <a href="https://www.linkedin.com/in/salvatoreborlenghi/">here</a>
 
-I love coding and developing, I can spend hours and hours on it without ever annoing I really love it.
+I love coding and development, I can spend hours and hours on it without ever getting bored, I really enjoy it.
 
 I'm interested in:
 - 🧳Full-Stack develpoing.
